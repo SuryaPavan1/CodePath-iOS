@@ -1,12 +1,16 @@
-# iOS Tipping Calculator Prework
+# Pre-work - *iOS Tipping Calculator*
 
-This is an iPhone application that calculates the total of a bill with a
-specified tipping amount.
+**iOS Tipping Calculator** is a tip calculator application for iOS.
 
-Time spent: 2 hours spent total
+Submitted by: **Surya Pavan Chennu**
 
-Completed User Stories:
+Time spent: **2** hours spent in total
 
-- [x] Required: Complete the basic tip calculator tutorial.
+## User Stories
 
-<img src = "http://g.recordit.co/oi7EOLYTHI.gif" width=250><br>
+The following **required** functionality is complete:
+
+* [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [x] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
+
+<img src='http://g.recordit.co/oi7EOLYTHI.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
